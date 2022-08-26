@@ -1,0 +1,6 @@
+:root {
+    --purple : #ff8e8e;
+    --darkpurple : #540101;
+    --background-purple: hsl(0, 100%, 35%);
+    --border: rgba(176, 111, 111, 0.5);
+}
